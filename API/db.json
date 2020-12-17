@@ -1,4 +1,4 @@
-[
+{"hero":[
     {
         "id": 1,
         "name": "npc_dota_hero_antimage",
@@ -1784,4 +1784,4 @@
         "img": "https://github.com/PanduDLaksono/mobile-3d-24/blob/master/doc/13_DotaPedia/API/img/hero_icon/Mars_icon.png",
         "legs": 2
     }
-]
+]}
