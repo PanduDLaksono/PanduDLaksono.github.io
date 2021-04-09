@@ -1,0 +1,10 @@
+{
+    "blog": [
+        {
+            "id": 1,
+            "judul": "npc_dota_hero_antimage",
+            "deskripsi": "Video thumbnail has a link to another HTML page. Categories do not need any JS. They are just separated HTML pages. Paging is at the bottom to extend the list as long as you want. This can be a large catalog.",
+            "gambar": "https://raw.githubusercontent.com/PanduDLaksono/mobile-3d-24/master/doc/13_DotaPedia/API/img/hero_icon/Anti-Mage_icon.png"
+        }
+    ]
+}
